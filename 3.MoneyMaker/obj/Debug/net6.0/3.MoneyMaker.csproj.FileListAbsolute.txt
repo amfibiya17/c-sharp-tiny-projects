@@ -1,0 +1,15 @@
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/bin/Debug/net6.0/3.MoneyMaker
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/bin/Debug/net6.0/3.MoneyMaker.deps.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/bin/Debug/net6.0/3.MoneyMaker.runtimeconfig.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/bin/Debug/net6.0/3.MoneyMaker.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/bin/Debug/net6.0/3.MoneyMaker.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/obj/Debug/net6.0/3.MoneyMaker.csproj.AssemblyReference.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/obj/Debug/net6.0/3.MoneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/obj/Debug/net6.0/3.MoneyMaker.AssemblyInfoInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/obj/Debug/net6.0/3.MoneyMaker.AssemblyInfo.cs
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/obj/Debug/net6.0/3.MoneyMaker.csproj.CoreCompileInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/obj/Debug/net6.0/3.MoneyMaker.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/obj/Debug/net6.0/refint/3.MoneyMaker.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/obj/Debug/net6.0/3.MoneyMaker.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/obj/Debug/net6.0/3.MoneyMaker.genruntimeconfig.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/3.MoneyMaker/obj/Debug/net6.0/ref/3.MoneyMaker.dll
