@@ -15,3 +15,27 @@ C# Tiny Projects
 12. Supernatural Inheritance
 13. Rover Control Center
 14. Programming Languages
+
+
+---
+
+## How to install the program
+
+- Clone this repository 
+
+```
+git clone https://github.com/amfibiya17/c-sharp-tyny-projects.git
+```
+
+---
+
+## How to run the program
+
+- go to the folder containing the project you are interested in
+- run the following command
+
+```
+dotnet run
+```
+
+---

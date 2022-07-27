@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/ConsoleCreatures/ConsoleCreatures.csproj": {}
+    "/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/1.ConsoleCreatures/ConsoleCreatures.csproj": {}
   },
   "projects": {
-    "/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/ConsoleCreatures/ConsoleCreatures.csproj": {
+    "/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/1.ConsoleCreatures/ConsoleCreatures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/ConsoleCreatures/ConsoleCreatures.csproj",
+        "projectUniqueName": "/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/1.ConsoleCreatures/ConsoleCreatures.csproj",
         "projectName": "ConsoleCreatures",
-        "projectPath": "/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/ConsoleCreatures/ConsoleCreatures.csproj",
+        "projectPath": "/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/1.ConsoleCreatures/ConsoleCreatures.csproj",
         "packagesPath": "/Users/yaroslavayates/.nuget/packages/",
-        "outputPath": "/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/ConsoleCreatures/obj/",
+        "outputPath": "/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/1.ConsoleCreatures/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yaroslavayates/.nuget/NuGet/NuGet.Config"
