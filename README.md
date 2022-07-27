@@ -31,7 +31,7 @@ git clone https://github.com/amfibiya17/c-sharp-tyny-projects.git
 
 ## How to run the program
 
-- go to the folder containing the project you are interested in
+- go to the folder containing the project you are interested in (explore README file in relevant folder for further instructions)
 - run the following command
 
 ```
