@@ -1,0 +1,15 @@
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/bin/Debug/net6.0/2.MadLibs
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/bin/Debug/net6.0/2.MadLibs.deps.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/bin/Debug/net6.0/2.MadLibs.runtimeconfig.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/bin/Debug/net6.0/2.MadLibs.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/bin/Debug/net6.0/2.MadLibs.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/obj/Debug/net6.0/2.MadLibs.csproj.AssemblyReference.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/obj/Debug/net6.0/2.MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/obj/Debug/net6.0/2.MadLibs.AssemblyInfoInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/obj/Debug/net6.0/2.MadLibs.AssemblyInfo.cs
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/obj/Debug/net6.0/2.MadLibs.csproj.CoreCompileInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/obj/Debug/net6.0/2.MadLibs.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/obj/Debug/net6.0/refint/2.MadLibs.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/obj/Debug/net6.0/2.MadLibs.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/obj/Debug/net6.0/2.MadLibs.genruntimeconfig.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/2.MadLibs/obj/Debug/net6.0/ref/2.MadLibs.dll
