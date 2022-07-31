@@ -34,7 +34,7 @@ I used switch statement to log different messages for different scores:
 - if none of those match, the password doesn’t meet any of the standards
 
 ---
-## Examples:
+## Examples of usage:
 
 ![screen1](https://i.postimg.cc/XNPzX5rb/Screenshot-2022-07-31-at-12-27-38.png)  
 
