@@ -33,17 +33,19 @@ I used switch statement to log different messages for different scores:
 - for scores of 1, the password is weak
 - if none of those match, the password doesn’t meet any of the standards
 
-
-
 ---
+## Examples:
 
+![screen1](https://i.postimg.cc/XNPzX5rb/Screenshot-2022-07-31-at-12-27-38.png)  
 
-![screen1]()
-![screen2]()
-![screen3]()
-![screen4]()
-![screen5]()
-![screen6]()
+![screen2](https://i.postimg.cc/hGKCNb59/Screenshot-2022-07-31-at-12-28-13.png)  
+
+![screen3](https://i.postimg.cc/5tPZ3R2H/Screenshot-2022-07-31-at-12-28-58.png)  
+
+![screen4](https://i.postimg.cc/W1NWHwK0/Screenshot-2022-07-31-at-12-30-51.png)  
+
+![screen5](https://i.postimg.cc/qqcwmNxm/Screenshot-2022-07-31-at-12-31-12.png)  
+
 
 ---
 

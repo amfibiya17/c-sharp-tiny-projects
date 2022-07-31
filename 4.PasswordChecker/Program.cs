@@ -52,22 +52,22 @@ namespace PasswordChecker
             switch(score)
             {
                 case 5:
-                    Console.WriteLine("Congratulations! Your password is extremely strong.");
+                    Console.WriteLine("Congratulations! Your password is extremely strong.\n");
                     break;
                 case 4:
-                    Console.WriteLine("Congratulations! Your password is extremely strong.");
+                    Console.WriteLine("Congratulations! Your password is extremely strong.\n");
                     break;
                 case 3:
-                    Console.WriteLine("Congratulations! Your password is strong.");
+                    Console.WriteLine("Congratulations! Your password is strong.\n");
                     break;
                 case 2:
-                    Console.WriteLine("Your password is medium.");
+                    Console.WriteLine("Your password is medium.\n");
                     break;
                 case 1:
-                    Console.WriteLine("Your password is weak.");
+                    Console.WriteLine("Your password is weak.\n");
                     break;
                 default:
-                    Console.WriteLine("Your password does not meet the requirements. Please try again.");
+                    Console.WriteLine("Your password does not meet the requirements. Please try again.\n");
                     break;
             }
         }
