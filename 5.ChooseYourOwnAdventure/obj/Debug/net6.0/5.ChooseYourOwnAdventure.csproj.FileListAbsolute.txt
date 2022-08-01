@@ -1,0 +1,15 @@
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/bin/Debug/net6.0/5.ChooseYourOwnAdventure
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/bin/Debug/net6.0/5.ChooseYourOwnAdventure.deps.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/bin/Debug/net6.0/5.ChooseYourOwnAdventure.runtimeconfig.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/bin/Debug/net6.0/5.ChooseYourOwnAdventure.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/bin/Debug/net6.0/5.ChooseYourOwnAdventure.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/obj/Debug/net6.0/5.ChooseYourOwnAdventure.csproj.AssemblyReference.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/obj/Debug/net6.0/5.ChooseYourOwnAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/obj/Debug/net6.0/5.ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/obj/Debug/net6.0/5.ChooseYourOwnAdventure.AssemblyInfo.cs
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/obj/Debug/net6.0/5.ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/obj/Debug/net6.0/5.ChooseYourOwnAdventure.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/obj/Debug/net6.0/refint/5.ChooseYourOwnAdventure.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/obj/Debug/net6.0/5.ChooseYourOwnAdventure.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/obj/Debug/net6.0/5.ChooseYourOwnAdventure.genruntimeconfig.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/5.ChooseYourOwnAdventure/obj/Debug/net6.0/ref/5.ChooseYourOwnAdventure.dll
