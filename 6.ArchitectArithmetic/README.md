@@ -28,15 +28,17 @@ double totalCost = totalArea * tileCost;
 
 ## Examples of usage:
 
-![screen1](https://i.postimg.cc/HnJDfHbN/Screenshot-2022-08-03-at-14-41-15.png)  
+![screen1](https://i.postimg.cc/mkx1Vhbr/Screenshot-2022-08-03-at-17-27-13.png)  
 
-![screen2]()  
+![screen2](https://i.postimg.cc/Y0kYMjTs/Screenshot-2022-08-03-at-17-47-16.png)  
 
-![screen3]()  
+![screen3](https://i.postimg.cc/QtgjGMQC/Screenshot-2022-08-03-at-17-27-27.png)  
 
-![screen4]()  
+![screen4](https://i.postimg.cc/VvDrwgqJ/Screenshot-2022-08-03-at-17-49-18.png)  
 
-![screen5]()  
+![screen5](https://i.postimg.cc/50JM3MhV/Screenshot-2022-08-03-at-17-31-32.png)   
+
+![screen5](https://i.postimg.cc/Njy9h150/Screenshot-2022-08-03-at-17-49-32.png)   
 
 
 ---
