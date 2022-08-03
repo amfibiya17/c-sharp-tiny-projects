@@ -34,9 +34,17 @@ I used these commands frequently throughout the project, to make sure I am comfo
 
 ## Examples of usage:
 
-![screen1]()  
+![screen1](https://i.postimg.cc/bJRnX9YW/Screenshot-2022-08-03-at-14-21-26.png)  
 
+![screen2](https://i.postimg.cc/HWZJQxrw/Screenshot-2022-08-03-at-14-22-02.png)  
 
+![screen3](https://i.postimg.cc/FKNst5fF/Screenshot-2022-08-03-at-14-22-38.png)  
+
+![screen4](https://i.postimg.cc/85n1r7Zs/Screenshot-2022-08-03-at-14-23-06.png)
+
+![screen5](https://i.postimg.cc/T2LyJxgB/Screenshot-2022-08-03-at-14-24-29.png)  
+
+![screen6](https://i.postimg.cc/8k65rHVS/Screenshot-2022-08-03-at-14-25-43.png)    
 
 
 ---
