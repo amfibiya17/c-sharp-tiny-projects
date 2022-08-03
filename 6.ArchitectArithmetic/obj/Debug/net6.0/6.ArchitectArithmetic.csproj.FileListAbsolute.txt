@@ -1,0 +1,15 @@
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/bin/Debug/net6.0/6.ArchitectArithmetic
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/bin/Debug/net6.0/6.ArchitectArithmetic.deps.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/bin/Debug/net6.0/6.ArchitectArithmetic.runtimeconfig.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/bin/Debug/net6.0/6.ArchitectArithmetic.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/bin/Debug/net6.0/6.ArchitectArithmetic.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/obj/Debug/net6.0/6.ArchitectArithmetic.csproj.AssemblyReference.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/obj/Debug/net6.0/6.ArchitectArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/obj/Debug/net6.0/6.ArchitectArithmetic.AssemblyInfoInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/obj/Debug/net6.0/6.ArchitectArithmetic.AssemblyInfo.cs
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/obj/Debug/net6.0/6.ArchitectArithmetic.csproj.CoreCompileInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/obj/Debug/net6.0/6.ArchitectArithmetic.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/obj/Debug/net6.0/refint/6.ArchitectArithmetic.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/obj/Debug/net6.0/6.ArchitectArithmetic.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/obj/Debug/net6.0/6.ArchitectArithmetic.genruntimeconfig.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/6.ArchitectArithmetic/obj/Debug/net6.0/ref/6.ArchitectArithmetic.dll
