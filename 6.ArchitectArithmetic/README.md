@@ -3,7 +3,8 @@ Architect Arithmetic
 
 ## What is this project about
 
-In this project, I used methods to build a program that calculates the material cost for any architect’s floor plan. For example, the floor plan of the Pantheon in Rome, Italy:
+In this project, I used methods to build a program that calculates the material cost for any architect’s floor plan.   
+For example, the floor plan of the Pantheon in Rome, Italy:
 
 ![screen1](https://i.postimg.cc/JhyND2cL/Screenshot-2022-08-03-at-14-44-26.png)  
 
@@ -38,7 +39,7 @@ double totalCost = totalArea * tileCost;
 
 ![screen5](https://i.postimg.cc/50JM3MhV/Screenshot-2022-08-03-at-17-31-32.png)   
 
-![screen5](https://i.postimg.cc/Njy9h150/Screenshot-2022-08-03-at-17-49-32.png)   
+![screen6](https://i.postimg.cc/Njy9h150/Screenshot-2022-08-03-at-17-49-32.png)   
 
 
 ---
