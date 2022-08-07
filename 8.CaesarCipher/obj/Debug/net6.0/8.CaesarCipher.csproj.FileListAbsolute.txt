@@ -1,0 +1,15 @@
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/bin/Debug/net6.0/8.CaesarCipher
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/bin/Debug/net6.0/8.CaesarCipher.deps.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/bin/Debug/net6.0/8.CaesarCipher.runtimeconfig.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/bin/Debug/net6.0/8.CaesarCipher.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/bin/Debug/net6.0/8.CaesarCipher.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/obj/Debug/net6.0/8.CaesarCipher.csproj.AssemblyReference.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/obj/Debug/net6.0/8.CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/obj/Debug/net6.0/8.CaesarCipher.AssemblyInfoInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/obj/Debug/net6.0/8.CaesarCipher.AssemblyInfo.cs
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/obj/Debug/net6.0/8.CaesarCipher.csproj.CoreCompileInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/obj/Debug/net6.0/8.CaesarCipher.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/obj/Debug/net6.0/refint/8.CaesarCipher.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/obj/Debug/net6.0/8.CaesarCipher.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/obj/Debug/net6.0/8.CaesarCipher.genruntimeconfig.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/8.CaesarCipher/obj/Debug/net6.0/ref/8.CaesarCipher.dll
