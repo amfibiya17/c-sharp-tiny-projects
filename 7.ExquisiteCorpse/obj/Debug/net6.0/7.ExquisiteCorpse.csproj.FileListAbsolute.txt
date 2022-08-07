@@ -1,0 +1,15 @@
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/bin/Debug/net6.0/7.ExquisiteCorpse
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/bin/Debug/net6.0/7.ExquisiteCorpse.deps.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/bin/Debug/net6.0/7.ExquisiteCorpse.runtimeconfig.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/bin/Debug/net6.0/7.ExquisiteCorpse.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/bin/Debug/net6.0/7.ExquisiteCorpse.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/obj/Debug/net6.0/7.ExquisiteCorpse.csproj.AssemblyReference.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/obj/Debug/net6.0/7.ExquisiteCorpse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/obj/Debug/net6.0/7.ExquisiteCorpse.AssemblyInfoInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/obj/Debug/net6.0/7.ExquisiteCorpse.AssemblyInfo.cs
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/obj/Debug/net6.0/7.ExquisiteCorpse.csproj.CoreCompileInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/obj/Debug/net6.0/7.ExquisiteCorpse.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/obj/Debug/net6.0/refint/7.ExquisiteCorpse.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/obj/Debug/net6.0/7.ExquisiteCorpse.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/obj/Debug/net6.0/7.ExquisiteCorpse.genruntimeconfig.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-tiny-projects/7.ExquisiteCorpse/obj/Debug/net6.0/ref/7.ExquisiteCorpse.dll
